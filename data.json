@@ -1,0 +1,53 @@
+{
+	"details":{
+		"image":"image2.png",
+		"name":"pavithra",
+		"phoneno":"9876543210",
+		"emailid":"pavithra30061998@gmail.com",
+		"address":"vignan's nirula college,guntur."
+	},
+	"career":
+	{ 
+		"info":"to purse a chalenging career"},
+		"education":[
+			{
+			"qualification":"b.tech",
+				"institute":"vignan's nirula college",
+				"year":"2016-2020",
+				"percentage":"80%"
+			},
+			{
+				"qualification":"intermediate",
+				"institute":"sri chaitanya",
+				"year":"2014-2016",
+				"percentage":"84%"
+			},
+			{
+				"qualification":"ssc",
+				"institute":"sri chaitanya",
+				"year":"2013-2014",
+				"percentage":"87%"
+			}
+		],
+		"skills":[{
+			"title":"programming languages",
+			"info":["c","java","c++","python","R"]
+		},
+		{
+			"title":"database",
+			"info":["sql","mysql","oracle"]
+		},
+		{
+			"title":"operating systems",
+			"info":["windows","linux","unix","ubuntu"]
+		}
+	],
+		"achievements":[
+			{
+				"title":"achievements information",
+				"information":["1st prize in essay writing"]
+            },	
+            {            
+            	"information":["2nd prize in ppt"] 
+            }
+        ]}
